@@ -1,4 +1,4 @@
-# react-webpack-babel
+# react-webpack-babel-styled
 Simple React Webpack Babel Styled Components Starter Kit
 
 Tired of complicated starters with 100MB of dependencies which are hard to understand and modify?
