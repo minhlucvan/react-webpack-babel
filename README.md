@@ -7,7 +7,7 @@ Try this is a simple [React](https://facebook.github.io/react/), [Webpack](http:
 
 # original repository
 
-this repository is forked from [react-webpack-babel](https://github.com/alicoding/react-webpack-babel) and edit to work with `styled-component`, if you're not familiar with `styled-component`, or prefer `css-mudule` please use the (this)[https://github.com/alicoding/react-webpack-babel]  instead;
+this repository is forked from [react-webpack-babel](https://github.com/alicoding/react-webpack-babel) and edit to work with `styled-component`, if you're not familiar with `styled-component` or prefer `css-mudule` please use the [thi])(https://github.com/alicoding/react-webpack-babel)  instead;
 
 many thanks to [react-webpack-babel](https://github.com/alicoding/react-webpack-babel) contributors.
 
