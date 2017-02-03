@@ -17,26 +17,26 @@ module.exports = [
 	{
 		test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/,
 		exclude: /(node_modules|bower_components)/,
-		loader: "url?limit=10000&mimetype=application/octet-stream"
+		loader: "url?limit=3000&mimetype=application/octet-stream"
 	},
 	{
 		test: /\.svg(\?v=\d+\.\d+\.\d+)?$/,
 		exclude: /(node_modules|bower_components)/,
-		loader: "url?limit=10000&mimetype=image/svg+xml"
+		loader: "url?limit=3000&mimetype=image/svg+xml"
 	},
 	{
 		test: /\.gif/,
 		exclude: /(node_modules|bower_components)/,
-		loader: "url-loader?limit=10000&mimetype=image/gif"
+		loader: "url-loader?limit=3000&mimetype=image/gif"
 	},
 	{
 		test: /\.jpg/,
 		exclude: /(node_modules|bower_components)/,
-		loader: "url-loader?limit=10000&mimetype=image/jpg"
+		loader: "url-loader?limit=3000&mimetype=image/jpg"
 	},
 	{
 		test: /\.png/,
 		exclude: /(node_modules|bower_components)/,
-		loader: "url-loader?limit=10000&mimetype=image/png"
+		loader: "url-loader?limit=3000&mimetype=image/png"
 	}
 ];
