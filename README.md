@@ -1,7 +1,7 @@
 # react-webpack-babel-styled
 Simple React Webpack Babel Styled Components Starter Kit
 
-Tired of complicated starters with 100MB of dependencies which are hard to understand and modify?
+Tired of complicated starters with 70MB of dependencies which are hard to understand and modify?
 
 Try this is a simple [React](https://facebook.github.io/react/), [Webpack](http://webpack.github.io/), [Babel](https://babeljs.io/) and [styled components](https://styled-components.com/) application with nothing else in it.
 
